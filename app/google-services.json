@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327642558291",
+    "project_id": "gramaurja-29c44",
+    "storage_bucket": "gramaurja-29c44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327642558291:android:6bd5b236f3229c1254fba6",
+        "android_client_info": {
+          "package_name": "com.gramaurja.gramaurja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbr_vr6iDfP8gGdvYxzf-WrEDABdu3qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
